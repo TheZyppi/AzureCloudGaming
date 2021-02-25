@@ -13,6 +13,7 @@
             "defaultValue": "Standard_NV6",
             "allowedValues": [
                 "Standard_NV6",
+                "Standard_NC6_Promo",
                 "Standard_NV12",
                 "Standard_NV24"
             ]
